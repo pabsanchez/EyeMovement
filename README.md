@@ -2,7 +2,7 @@
 
 ## :white_medium_square: Description
 ### Week 8 Final Exercise
-### This exercise is called Eye Movement, like it's name says if consists on the movement of the eyes located at the center of the screen following the movement of your cursor.
+### This exercise is called Eye Movement, like it's name says it consists on the movement of the eyes located at the center of the screen following the movement of your cursor.
 
 
 ## :white_medium_square: How to run
